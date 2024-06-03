@@ -45,7 +45,8 @@
     background-color: black;
     margin: 0 10px;
     border-radius: 50%;
-
+    opacity:0.3;
+    cursor:pointer;
 }
 .subtext3{
     color:red;
@@ -253,6 +254,32 @@ margin-right: 50%;
     color:red;
 }
 
+/* .radio{
+    display:none;
+}
+.dots label:hover{
+    opacity:0.7;
+}
+#radio-1:checked ~ #slider-1,
+#radio-2:checked ~ #slider-2,
+#radio-3:checked ~ #slider-3,
+#radio-4:checked ~ #slider-4{
+    opacity:1;
+}
+
+#radio-1:checked~#slider-1 img,
+#radio-1:checked~#slider-1 img,
+#radio-1:checked~#slider-1 img,
+#radio-1:checked~#slider-1 img{
+    transform:scale(1);
+}
+#radio-1:checked ~ .dots #label-1,
+#radio-2:checked ~ .dots #label-2,
+#radio-3:checked ~ .dots #label-3,
+#radio-4:checked ~ .dots #label-4{
+    background: black;
+       
+} */
 
 
 
