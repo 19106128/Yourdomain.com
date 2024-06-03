@@ -254,13 +254,13 @@ margin-right: 50%;
     color:red;
 }
 
-/* .radio{
+ .radio{
     display:none;
 }
 .dots label:hover{
     opacity:0.7;
 }
-#radio-1:checked ~ #slider-1,
+/* #radio-1:checked ~ #slider-1,
 #radio-2:checked ~ #slider-2,
 #radio-3:checked ~ #slider-3,
 #radio-4:checked ~ #slider-4{
@@ -279,8 +279,8 @@ margin-right: 50%;
 #radio-4:checked ~ .dots #label-4{
     background: black;
        
-} */
-
+} 
+ */
 
 
 
